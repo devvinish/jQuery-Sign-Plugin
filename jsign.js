@@ -1,4 +1,3 @@
-<script>
 jQuery(document).ready(function($) {
 	
 	// This is the part where jSignature is initialized.
@@ -96,5 +95,4 @@ jQuery(document).ready(function($) {
 		$('#scrollgrabber').height($('#content').height())		
 	}
 	
-})
-</script>
+});
